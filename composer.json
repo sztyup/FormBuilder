@@ -1,5 +1,5 @@
 {
-  "name": "distilleries/laravel-form-builder",
+  "name": "sztyup/laravel-form-builder",
   "description": "Based on laravel-form-builder (https://github.com/kristijanhusak/laravel-form-builder). That add default component and add view system.",
   "license": "MIT",
   "authors": [
